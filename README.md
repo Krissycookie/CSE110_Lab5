@@ -1,1 +1,2 @@
-# Lab 5 - Starter
+# CSE110 Lab 5
+Kristy Chan
